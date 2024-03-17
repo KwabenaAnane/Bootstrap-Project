@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+main {
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(96, 70, 199);
+}
+
+.h1 {
+  margin: 50px;
+}
+
+h2 {
+  color: rgb(96, 70, 199);
+}
+.nav-item a {
+  color: white;
+}
+
+.navbar {
+  background-color: rgb(159, 71, 112);
+}
+
+.navbar-brand {
+  font-size: xx-large;
+  font-weight: 900;
+  color: white;
+}
+
+.trip-details {
+  margin: 50px;
+}
